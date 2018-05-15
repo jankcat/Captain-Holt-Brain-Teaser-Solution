@@ -27,7 +27,7 @@ Now GO!
 	* Take 3 men from the group and measure against 3 neutral men from 1-8. [9, 10, 11] VS. [1, 2, 3]. 
 		* IF the measurement is equal then the odd man is 12. You don't know heavier or lighter, but you still have 1 remaining move. 
 			* Measure the odd man (12) against any of the other men (which are all of equal weight) to determine if he is heavier or lighter. 
-		* IF the scale is unequal, then you know the odd man is within the group 8-11. Take note of whether it is heavier or lighter. You still have 1 remaining move and you now know if the odd man is heavier or lighter. 
+		* IF the scale is unequal, then you know the odd man is within the group 9-11. Take note of whether it is heavier or lighter. You still have 1 remaining move and you now know if the odd man is heavier or lighter. 
 			* {{3 remaining with known weight solution}}  Since the weight is known, all you need to do is measure 2 men from the remaining 3 against each other. There are 2 possible outcomes, either they are equal, or unequal. 
 				* If they are equal, it is the remaining man not being measured. 
 				* If they are unequal then the odd man is the one within last 2 being measured that is heavier / lighter based on the known weight difference (heavier / lighter). 
